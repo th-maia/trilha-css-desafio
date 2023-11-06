@@ -4,7 +4,7 @@ Bem vindo(a)! Está pagina foi feita para cumprir o desafio da Trilha de CSS da 
 
 Nesse projeto me aprofundei nas propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha. Realizei a estilização da página e toda a parte responsável por interligar sua página HTML com suas folhas de estilo para que o resultado da estilização funcione.
 
-*Realizei as seguintes melhorias adicionais ao pojeto original *melhorando as resoluções das imagens e fazendo ser possivel a visualização em dispositivos mobile.*
+*Realizei as seguintes melhorias adicionais ao projeto original *melhorando as resoluções das imagens e fazendo ser possivel a visualização em dispositivos mobile.*
 
 [site que criei nesse projeto](https://th-maia.github.io/trilha-css-desafio/)
 
